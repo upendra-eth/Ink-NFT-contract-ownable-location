@@ -1,8 +1,8 @@
 [package]
 name = "erc721"
 version = "3.0.0-rc7"
-authors = ["Parity Technologies <admin@parity.io>"]
-edition = "2021"
+authors = ["Upendra Singh <uvsingh2336@gmail.com>"]
+edition = "2022"
 
 [dependencies]
 ink_primitives = { version = "3.0.0-rc7", path = "../../crates/primitives", default-features = false }
